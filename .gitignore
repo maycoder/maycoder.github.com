@@ -11,3 +11,16 @@ source/_stash
 source/stylesheets/screen.css
 vendor
 node_modules
+*.[oa]
+*~
+*.pyc
+*.swp
+*.swo
+*.bin
+*.config
+.DS_Store
+.project
+.buildpath
+*.gitignore
+*.bak
+*.csv
