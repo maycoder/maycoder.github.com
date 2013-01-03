@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://maycoder.github.com/blog/2012/03/18/hello-world/</loc>
+        <lastmod>2013-01-02T19:55:42+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://maycoder.github.com/blog/2012/03/24/reason-for-blogging/</loc>
+        <lastmod>2013-01-02T19:55:42+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://maycoder.github.com/blog/2012/03/28/old-thoughts/</loc>
+        <lastmod>2013-01-02T19:55:42+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://maycoder.github.com/blog/2012/05/28/end-of-may/</loc>
+        <lastmod>2013-01-03T21:45:52+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://maycoder.github.com/blog/2013/01/02/end-of-2012/</loc>
+        <lastmod>2013-01-04T01:43:13+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://maycoder.github.com/blog/2013/01/03/a-couple-in-the-cafe/</loc>
+        <lastmod>2013-01-03T21:43:24+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://maycoder.github.com/blog/archives/</loc>
+        <lastmod>2013-01-04T01:43:13+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://maycoder.github.com/</loc>
+        <lastmod>2013-01-04T01:43:13+08:00</lastmod>
+    </url>
+</urlset>

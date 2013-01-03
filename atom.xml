@@ -1,94 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
 
-<!DOCTYPE HTML>
-<html>
-<head>
-    <meta charset="utf-8">
-    <title>MayCoder</title>
-    <meta name="author" content="Code6">
-
+  <title><![CDATA[MayCoder]]></title>
+  <link href="http://maycoder.github.com/atom.xml" rel="self"/>
+  <link href="http://maycoder.github.com/"/>
+  <updated>2013-01-04T01:44:09+08:00</updated>
+  <id>http://maycoder.github.com/</id>
+  <author>
+    <name><![CDATA[Code6]]></name>
     
-    <meta name="description" content="咖啡厅里的一对 15:17
-现在旁边有一对情侣，边吃东西边聊天。而我是一个窃听者。
-其实我不希望是这样的，我不希望偷听别人的聊天，但是我不能控制我的耳朵。
-我希望能做自己的事，但是如果我们做的这么近，那么这又如何能够成立呢。
-难道咖啡厅就是这样没有隐私的地方，不对的，我觉得既然是不认识的人， &hellip;">
-    
-    <meta name="viewport" content="width=device-width; initial-scale=1; maximum-scale=1">
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
-    <link href="/atom.xml" rel="alternate" title="MayCoder" type="application/atom+xml">
-    <link rel="canonical" href="">
-    <link href="/favicon.png" rel="shortcut icon">
-    <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-    <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-    
-    
-  <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-29800624-1']);
-    _gaq.push(['_trackPageview']);
-
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-  </script>
-
-
-</head>
-
-<body>
-	<header class="inner"><h1 class="left"><a href="/">MayCoder</a></h1>
-<nav class="menu left"><ul class="main">
-	<li><a href="/">Blog</a></li>
-	<li><a href="/blog/archives">Archives</a></li>
-</ul>
-</nav>
-<div class="right">
-	<form class="search right" action="http://google.com/search" method="get">
-		<input class="left" type="text" name="q" results="0">
-		<input type="hidden" name="q" value="site:maycoder.github.com">
-	</form>
-	<div class="social right">
-		
-		
-		<a class="google" href="https://plus.google.com/104473212256457667839" title="Google+">Google+</a>
-		
-		
-		<a class="twitter" href="http://twitter.com/wzc1989" title="Twitter">Twitter</a>
-		
-		
-		<a class="github" href="https://github.com/code6" title="GitHub">GitHub</a>
-		
-		
-		<a class="rss" href="/atom.xml" title="RSS">RSS</a>
-		
-	</div>
-</div>
-</header>
-	
-<div id="banner" class="inner">
-	<div class="container">
-		<ul class="feed"></ul>
-	</div>
-	<small><a href="http://twitter.com/wzc1989">wzc1989</a> @ <a href="http://twitter.com">Twitter</a></small>
-	<div class="loading">Loading...</div>
-</div>
-<script src="/javascripts/twitter.js"></script>
-<script type="text/javascript">
-	(function($){
-		$('#banner').getTwitterFeed('wzc1989', 4, false);
-	})(jQuery);
-</script>
-
-	<div id="content" class="inner">
-
-
-    <article class="post">
-    <h1 class="title"><a href="/blog/2013/01/03/a-couple-in-the-cafe/">咖啡厅里的一对</a></h1>
-    <div class="entry">
-        <p>15:17<br />
+  
+  <entry>
+    <title type="html"><![CDATA[咖啡厅里的一对]]></title>
+    <link href="http://maycoder.github.com/blog/2013/01/03/a-couple-in-the-cafe/"/>
+    <updated>2013-01-03T21:39:00+08:00</updated>
+    <id>http://maycoder.github.com/blog/2013/01/03/a-couple-in-the-cafe</id>
+    <content type="html"><![CDATA[<p>15:17<br />
 现在旁边有一对情侣，边吃东西边聊天。而我是一个窃听者。<br />
 其实我不希望是这样的，我不希望偷听别人的聊天，但是我不能控制我的耳朵。<br />
 我希望能做自己的事，但是如果我们做的这么近，那么这又如何能够成立呢。<br />
@@ -102,36 +32,15 @@
 咖啡馆并不像你想的那么美好。<br />
 或者说，一旦人多，哪里都没有那么美好。<br />
 哦，对了，我坐在一个靠窗的位置，对面是一个胡同，这里是钱粮胡同32号，胡同里的美树馆。<br />
-进入正题。</p>
-        
-        
-    </div>
-    <div class="meta">
-        <div class="date">
-
-
-
-
-
-
-
-
+进入正题。</p>]]></content>
+  </entry>
   
-
-
-<time datetime="2013-01-03T21:39:00+08:00" pubdate data-updated="true">Jan 3<span>rd</span>, 2013</time></div>
-        <div class="tags">
-
-</div>
-        
-    </div>
-</article>
-
-
-    <article class="post">
-    <h1 class="title"><a href="/blog/2013/01/02/end-of-2012/">End of 2012</a></h1>
-    <div class="entry">
-        <p class="date">2013-01-03</p>
+  <entry>
+    <title type="html"><![CDATA[End of 2012]]></title>
+    <link href="http://maycoder.github.com/blog/2013/01/02/end-of-2012/"/>
+    <updated>2013-01-02T20:00:00+08:00</updated>
+    <id>http://maycoder.github.com/blog/2013/01/02/end-of-2012</id>
+    <content type="html"><![CDATA[<p class="date">2013-01-03</p>
 <p>这个元旦的五天假期，我一直希望能总结一下我的2012，尤其在我已经有一个那么方便说话的blog的时候。<br />
 本来2号想写的，但一下子还是拖到3号了。我希望思绪能连贯，不在乎条理，但求一气呵成。<br />
 当我不甚清晰的时候，可能提点问题要求自己回答会比较容易明白。虽然这不是我喜欢的行文方式。</p>
@@ -171,36 +80,15 @@
 3. 我希望自发办的事情能取得成功，比如规划去台湾，逛更多的地方，尝试更多的东西<br />
 4. 坚持锻炼身体, 我希望继续骑车，有一天我可以去骑川藏，不为什么</p>
 <p>我的要求可能有遗漏，期待可能比较多，但是我得睡觉了= =<br />
-最后，赶紧结束这篇文章吧，我说了好多废话，我讨厌没有条理，这是我需要客服的。</p>
-        
-        
-    </div>
-    <div class="meta">
-        <div class="date">
-
-
-
-
-
-
-
-
+最后，赶紧结束这篇文章吧，我说了好多废话，我讨厌没有条理，这是我需要客服的。</p>]]></content>
+  </entry>
   
-
-
-<time datetime="2013-01-02T20:00:00+08:00" pubdate data-updated="true">Jan 2<span>nd</span>, 2013</time></div>
-        <div class="tags">
-
-</div>
-        
-    </div>
-</article>
-
-
-    <article class="post">
-    <h1 class="title"><a href="/blog/2012/05/28/end-of-may/">End of May</a></h1>
-    <div class="entry">
-        <p>心血来潮又想写点东西了，我希望坚持的事情越多，我需要的时间越多。<br />
+  <entry>
+    <title type="html"><![CDATA[End Of May]]></title>
+    <link href="http://maycoder.github.com/blog/2012/05/28/end-of-may/"/>
+    <updated>2012-05-28T22:01:00+08:00</updated>
+    <id>http://maycoder.github.com/blog/2012/05/28/end-of-may</id>
+    <content type="html"><![CDATA[<p>心血来潮又想写点东西了，我希望坚持的事情越多，我需要的时间越多。<br />
 May就快结束了，从2012年初就一直叫嚷的事情，在昨天有点眉目了。<br />
 我终于搞到一辆山地车了, 前后不过一周时间。</p>
 <blockquote>
@@ -217,36 +105,15 @@ May就快结束了，从2012年初就一直叫嚷的事情，在昨天有点眉�
 一些问题还没有答案，只是我倒也正常生活，没有波澜，没有精彩。<br />
 发现我不太会说话了，我都好久只看不说了，快成哑巴了。<br />
 但如果是一个默默把事情做好的哑巴, 那倒也无妨。<br />
-默默在5月底，惦记着远方的路，沿途的风景, 以及明天的脚印。</p>
-        
-        
-    </div>
-    <div class="meta">
-        <div class="date">
-
-
-
-
-
-
-
-
+默默在5月底，惦记着远方的路，沿途的风景, 以及明天的脚印。</p>]]></content>
+  </entry>
   
-
-
-<time datetime="2012-05-28T22:01:00+08:00" pubdate data-updated="true">May 28<span>th</span>, 2012</time></div>
-        <div class="tags">
-
-</div>
-        
-    </div>
-</article>
-
-
-    <article class="post">
-    <h1 class="title"><a href="/blog/2012/03/28/old-thoughts/">旧思绪</a></h1>
-    <div class="entry">
-        <p>总会在旧的本子，日记中找到看着舒服的句子，在别人眼里或许很不值一提，不过确实有些自我的声音，希望能稍微记着，外带那段时间的美好或忧伤。</p>
+  <entry>
+    <title type="html"><![CDATA[旧思绪]]></title>
+    <link href="http://maycoder.github.com/blog/2012/03/28/old-thoughts/"/>
+    <updated>2012-03-28T20:02:00+08:00</updated>
+    <id>http://maycoder.github.com/blog/2012/03/28/old-thoughts</id>
+    <content type="html"><![CDATA[<p>总会在旧的本子，日记中找到看着舒服的句子，在别人眼里或许很不值一提，不过确实有些自我的声音，希望能稍微记着，外带那段时间的美好或忧伤。</p>
 <blockquote>
 <p>也不知为何而苍白<br />
 为何而憔悴<br />
@@ -319,120 +186,30 @@ May就快结束了，从2012年初就一直叫嚷的事情，在昨天有点眉�
 <p>怀念过去<br />
 并非否定将来</p>
 </blockquote>
-<p>总是这么想着的，这么去努力去尝试。</p>
-        
-        
-    </div>
-    <div class="meta">
-        <div class="date">
-
-
-
-
-
-
-
-
+<p>总是这么想着的，这么去努力去尝试。</p>]]></content>
+  </entry>
   
-
-
-<time datetime="2012-03-28T20:02:00+08:00" pubdate data-updated="true">Mar 28<span>th</span>, 2012</time></div>
-        <div class="tags">
-
-</div>
-        
-    </div>
-</article>
-
-
-    <article class="post">
-    <h1 class="title"><a href="/blog/2012/03/24/reason-for-blogging/">书写心情</a></h1>
-    <div class="entry">
-        <p class="date">2012-03-25</p>
+  <entry>
+    <title type="html"><![CDATA[书写心情]]></title>
+    <link href="http://maycoder.github.com/blog/2012/03/24/reason-for-blogging/"/>
+    <updated>2012-03-24T11:08:00+08:00</updated>
+    <id>http://maycoder.github.com/blog/2012/03/24/reason-for-blogging</id>
+    <content type="html"><![CDATA[<p class="date">2012-03-25</p>
 <p>重新开个同样的blog写写心情，与写技术方面兴趣分开来才不会带来污染。<br />
 毕竟是琐碎无聊的想法。有时习惯写的是心情，有时又想总结一下。<br />
 想总结的时候就到这吧，简单写段长长的心情，稍微混乱，无需组织。<br />
 现在的时间过得是越发快了，经常在我还未能做出反应时一天过去了。<br />
 一个人是富有的，我想在于他的每一天都有一个或多个确定的意义，不是千篇一律，不是一文不值。<br />
 如果我能记下来，又恰好留下的文字，那么我就拥有了这一天，即便它已经过去。<br />
-大概是如此。</p>
-        
-        
-    </div>
-    <div class="meta">
-        <div class="date">
-
-
-
-
-
-
-
-
+大概是如此。</p>]]></content>
+  </entry>
   
-
-
-<time datetime="2012-03-24T11:08:00+08:00" pubdate data-updated="true">Mar 24<span>th</span>, 2012</time></div>
-        <div class="tags">
-
-</div>
-        
-    </div>
-</article>
-
-
-    <article class="post">
-    <h1 class="title"><a href="/blog/2012/03/18/hello-world/">Hello World</a></h1>
-    <div class="entry">
-        <p>写点心情，希望换个清爽的模板。</p>
-        
-        
-    </div>
-    <div class="meta">
-        <div class="date">
-
-
-
-
-
-
-
-
+  <entry>
+    <title type="html"><![CDATA[hello world]]></title>
+    <link href="http://maycoder.github.com/blog/2012/03/18/hello-world/"/>
+    <updated>2012-03-18T12:43:00+08:00</updated>
+    <id>http://maycoder.github.com/blog/2012/03/18/hello-world</id>
+    <content type="html"><![CDATA[<p>写点心情，希望换个清爽的模板。</p>]]></content>
+  </entry>
   
-
-
-<time datetime="2012-03-18T12:43:00+08:00" pubdate data-updated="true">Mar 18<span>th</span>, 2012</time></div>
-        <div class="tags">
-
-</div>
-        
-    </div>
-</article>
-
-<nav id="pagenavi">
-    
-    
-    <a href="/blog/archives" class="center">Blog Archives</a>
-</nav></div>
-	<footer class="inner">Copyright &copy; 2013 MayCoder</footer>
-	<script src="/javascripts/jquery.fancybox.pack.js"></script>
-<script src="/javascripts/slash.js"></script>
-
-
-<script type="text/javascript">
-      var disqus_shortname = 'code6';
-      
-        
-        var disqus_script = 'count.js';
-      
-    (function () {
-      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
-      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    }());
-</script>
-
-
-
-</body>
-</html>
+</feed>
