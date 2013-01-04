@@ -19,4 +19,4 @@ categories:
 我只是在欣赏风景，并不想靠近，也无碍。
 我期待很快就能再去一次了。
 
-{% img /images/ski_2.png %}
+{% img /images/ski_1.jpg %}
