@@ -1,6 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://maycoder.github.com/blog/2011/05/12/take-a-walk/</loc>
+        <lastmod>2013-01-10T23:01:54+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://maycoder.github.com/blog/2011/07/20/rainy-day/</loc>
+        <lastmod>2013-01-10T23:04:39+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://maycoder.github.com/blog/2011/08/06/double-seven/</loc>
+        <lastmod>2013-01-10T23:14:38+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://maycoder.github.com/blog/2011/08/20/taste-good/</loc>
+        <lastmod>2013-01-10T23:16:29+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://maycoder.github.com/blog/2011/09/11/i-can-send-you-a-card/</loc>
+        <lastmod>2013-01-10T23:19:42+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://maycoder.github.com/blog/2011/09/25/our-time-has-passed/</loc>
+        <lastmod>2013-01-10T23:21:40+08:00</lastmod>
+    </url>
+    <url>
         <loc>http://maycoder.github.com/blog/2012/03/18/hello-world/</loc>
         <lastmod>2013-01-02T19:55:42+08:00</lastmod>
     </url>
@@ -11,6 +35,10 @@
     <url>
         <loc>http://maycoder.github.com/blog/2012/03/28/old-thoughts/</loc>
         <lastmod>2013-01-02T19:55:42+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://maycoder.github.com/blog/2012/04/06/long-time-no-see/</loc>
+        <lastmod>2013-01-10T23:23:27+08:00</lastmod>
     </url>
     <url>
         <loc>http://maycoder.github.com/blog/2012/05/28/end-of-may/</loc>
@@ -34,10 +62,10 @@
     </url>
     <url>
         <loc>http://maycoder.github.com/blog/archives/</loc>
-        <lastmod>2013-01-10T02:06:09+08:00</lastmod>
+        <lastmod>2013-01-10T23:23:27+08:00</lastmod>
     </url>
     <url>
         <loc>http://maycoder.github.com/</loc>
-        <lastmod>2013-01-10T02:06:09+08:00</lastmod>
+        <lastmod>2013-01-10T23:23:27+08:00</lastmod>
     </url>
 </urlset>
