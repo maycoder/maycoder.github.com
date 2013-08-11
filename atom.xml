@@ -4,7 +4,7 @@
   <title><![CDATA[MayCoder]]></title>
   <link href="http://maycoder.github.com/atom.xml" rel="self"/>
   <link href="http://maycoder.github.com/"/>
-  <updated>2013-08-11T02:11:55+08:00</updated>
+  <updated>2013-08-12T01:22:34+08:00</updated>
   <id>http://maycoder.github.com/</id>
   <author>
     <name><![CDATA[Code6]]></name>
@@ -12,6 +12,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[周记-2013年08月11日]]></title>
+    <link href="http://maycoder.github.com/blog/2013/08/12/weekly-diary-20130811/"/>
+    <updated>2013-08-12T00:36:00+08:00</updated>
+    <id>http://maycoder.github.com/blog/2013/08/12/weekly-diary-20130811</id>
+    <content type="html"><![CDATA[<p>现在又是凌晨了，有点累，本来有一场Tc的，幸亏时间变了，要不然周记都写不好了。</p>
+<p>最近我有点懒惰，或者说感觉事情有点困难又在往其他地方回避了，脑容量的问题真是让人捉急。<br />
+上周的心愿似乎写的有点多，本周看起来完成度有点低，依然是很忙，然后每天都有很多事情要做，不过没有太到点子上。</p>
+<p><strong>nice bug</strong><br />
+本周四天基本都在跟同事追一个bug，花了一个礼拜，在周末终于得到解决。最终是社区的人解决的，不过我们已经尽我们所能定位到确切的问题了，整个追查过程值得写一篇洋洋洒洒的wiki供大家围观。对在主要任务上的这步推进我还是很满意的。不过这件事情过于具体，主要任务的大局上的推进没有很给力。我们知道后面有哪些步骤需要做，于是很简单，去做就对了。时间已经成熟，快速把这样一件事情推进完成吧。</p>
+<p><strong>51talk</strong><br />
+在51talk上买了次卡，开始进行英语计划了，截止到目前为止已经上了3节课了，东南亚的老师人还挺nice的。不过英语这东西靠老师不行还是得靠自己。所以这说英语学习这个计划才刚开始而已。当然，最近伴随着看一些公开课和会议视频，感觉我在没有字幕的情况下能听得懂更多了，不懂的多半是一些词汇问题和俗语, 还得找时间积累一下。</p>
+<p><strong>新舍友</strong><br />
+lwt同学在回归美团的同时成了我的新舍友。他在11号搬了过来，不过这几天我们这边刚好有蛮多人暂住的，所以一下子变得有点热闹了。</p>
+<p>回顾这周的计划, 完成的不多。欠一篇技术blog， 欠一顿和daxia吃的饭，看书方面也很迟钝，所以我打算把上周的计划直接照搬过来吧， shame on you!</p>
+<p>下周计划:</p>
+<ul>
+	<li>最主要的还是继续在主要任务上冲刺</li>
+	<li>打算约daxia，sean以及其他朋友出来聊天</li>
+	<li>继续看挑战程序设计竞赛这本书，以及database imp(这本书拖太久了)</li>
+	<li>发一篇技术博文(之前是希望每周一篇的, 目前隔太久还没有, 可以整理内部个人wiki积累)</li>
+	<li>打算制定一个英语培训计划</li>
+	<li>欠曹同学一顿饭</li>
+</ul>
+<p>主要是我眼皮打架了，下周见。</p>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[白河峡谷漂流TB]]></title>
@@ -66,6 +93,10 @@
 <p>跟一个在北京呆了很长时间的老外程序员聊天。他说国外压力大，于是练就高效编程的技能（工具链也非常齐备），快速完工，然后节省出时间来做喜欢的开源项目。来到中国后感觉很轻松，中国同事效率不高，虽然加班很辛苦的样子。</p>
 </blockquote>
 <p>这就像我现在的形象，每每苦逼，却仍然感觉产出很低。不过也正因为如此所以发挥空间还很大。。。</p>
+<p>后面还看到一句话也很好:</p>
+<blockquote>
+<p>A world without pair-programming is a sad, lonely place.</p>
+</blockquote>
 <p><strong>刷题的乐趣</strong><br />
 本周开始看&lt;&lt;挑战程序设计竞赛&gt;&gt;这本书了，另外跟dz同学一起做了一场SRM, 后续可以跟dz同学多做一些这方面的题目，倒也有趣。最近对这块又重燃起兴趣了，之前总觉得工作后就没有时间了，其实是借口罢了。对于许多想学而没学的东西来说也是如此。</p>
 <p><strong>每日记录变少</strong><br />
@@ -597,21 +628,6 @@ May就快结束了，从2012年初就一直叫嚷的事情，在昨天有点眉�
 并非否定将来</p>
 </blockquote>
 <p>总是这么想着的，这么去努力去尝试。</p>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[书写心情]]></title>
-    <link href="http://maycoder.github.com/blog/2012/03/24/reason-for-blogging/"/>
-    <updated>2012-03-24T11:08:00+08:00</updated>
-    <id>http://maycoder.github.com/blog/2012/03/24/reason-for-blogging</id>
-    <content type="html"><![CDATA[<p class="date">2012-03-25</p>
-<p>重新开个同样的blog写写心情，与写技术方面兴趣分开来才不会带来污染。<br />
-毕竟是琐碎无聊的想法。有时习惯写的是心情，有时又想总结一下。<br />
-想总结的时候就到这吧，简单写段长长的心情，稍微混乱，无需组织。<br />
-现在的时间过得是越发快了，经常在我还未能做出反应时一天过去了。<br />
-一个人是富有的，我想在于他的每一天都有一个或多个确定的意义，不是千篇一律，不是一文不值。<br />
-如果我能记下来，又恰好留下的文字，那么我就拥有了这一天，即便它已经过去。<br />
-大概是如此。</p>]]></content>
   </entry>
   
 </feed>
