@@ -1,0 +1,27 @@
+---
+layout: post
+title: "周记-2013年09月08日"
+date: 2013-09-16 22:42
+comments: true
+categories: 
+---
+
+9.2 ~ 9.8
+
+时间回退到9月的第一周了, 虽然现在是9月17号了(如果我补充五一的事情，那回退得才更厉害)。
+
+*sendmail*
+似乎这周一搞了一个 sendmail 小模块，起因是希望在hadoop任务监控上添加发报警邮件功能，然后看到目前的python包当中没有邮件模块，于是快快搞了一个。自己用着还算爽，不过感觉仅仅是一个屁大的事情罢了。
+
+*mysql slave restart*
+由于上周提到SA已经不case 这种经常会挂掉的从库了，于是我快猛操地又搞了一个小脚本用来做从库检测重启。一上线就服务于一两次夜间的从库down机问题(发现我做的都是火烧眉毛的事情, 甚是被动)。
+
+*sqoop hive to mysql*
+在本周我终止了一个尝试: sqoop 同步数据回 mysql, 因为这个实在是太费劲了，脆弱的dw mysql 连几十GB的数据量都承受不起。后续还得继续找较大结果数据的报表展示方案。
+
+*天云趋势*
+"活动行上面的一个活动":http://www.huodongxing.com/go/hadoopsalon 看着还不错，于是周五中午我跟cc和cjz就跑过去听了一会儿，Hortonworks的兄弟Jeff Markham 在上面介绍 hadoop 2.0 有啥好处之类的东西，后面几个感觉听着没意思就先走了。出来的时候还问了 Jeff 关于"如何平稳地升级hadoop生态系统各组件"这个问题，不过他没回复，而是很商业性质地希望交换名片，然后说可以给他发email，他会回复的。后面我发了一个邮件索取分享的ppt却一直没有收到回信。。。
+
+*hackathon*
+另外本周一个重点就是 美团hackathon 了, 我已经 "记录在另外一篇文章":http://code6.github.io/blog/2013/09/07/one-day-in-the-data-warehouse/ 里面了，这里就不细述了。
+
