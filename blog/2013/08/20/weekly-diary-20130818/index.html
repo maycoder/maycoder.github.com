@@ -1,0 +1,165 @@
+
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>周记-2013年08月18日 - MayCoder</title>
+    <meta name="author" content="Code6">
+
+    
+    <meta name="description" content="周记-2013年08月18日 上周的周记居然忘了写了，感觉周记还是不能拖到要睡觉前发，要不然太困了就不写了，断了好习惯，现在补补。
+上周有什么值得说的呢？
+周末wt这位新晋的大厨做了两天的菜，又是粉蒸肉，又是大盆鸡。看起来他对烹饪也很喜欢，我呢，则是又做了一顿午饭，勉勉强强吧。 &hellip;">
+    
+    <meta name="viewport" content="width=device-width; initial-scale=1; maximum-scale=1">
+
+    <link href="/atom.xml" rel="alternate" title="MayCoder" type="application/atom+xml">
+    <link rel="canonical" href="">
+    <link href="/favicon.png" rel="shortcut icon">
+    <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+    <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    
+    
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-29800624-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body>
+	<header class="inner"><h1 class="left"><a href="/">MayCoder</a></h1>
+<nav class="menu left"><ul class="main">
+	<li><a href="/">Blog</a></li>
+	<li><a href="/blog/archives">Archives</a></li>
+</ul>
+</nav>
+<div class="right">
+	<form class="search right" action="http://google.com/search" method="get">
+		<input class="left" type="text" name="q" results="0">
+		<input type="hidden" name="q" value="site:maycoder.github.com">
+	</form>
+	<div class="social right">
+		
+		
+		<a class="google" href="https://plus.google.com/104473212256457667839" title="Google+">Google+</a>
+		
+		
+		<a class="twitter" href="http://twitter.com/wzc1989" title="Twitter">Twitter</a>
+		
+		
+		<a class="github" href="https://github.com/code6" title="GitHub">GitHub</a>
+		
+		
+		<a class="rss" href="/atom.xml" title="RSS">RSS</a>
+		
+	</div>
+</div>
+</header>
+	
+<div id="banner" class="inner">
+	<div class="container">
+		<ul class="feed"></ul>
+	</div>
+	<small><a href="http://twitter.com/wzc1989">wzc1989</a> @ <a href="http://twitter.com">Twitter</a></small>
+	<div class="loading">Loading...</div>
+</div>
+<script src="/javascripts/twitter.js"></script>
+<script type="text/javascript">
+	(function($){
+		$('#banner').getTwitterFeed('wzc1989', 4, false);
+	})(jQuery);
+</script>
+
+	<div id="content" class="inner"><article class="post">
+    <h1 class="title">周记-2013年08月18日</h1>
+    <div class="entry"><p>上周的周记居然忘了写了，感觉周记还是不能拖到要睡觉前发，要不然太困了就不写了，断了好习惯，现在补补。</p>
+<p>上周有什么值得说的呢？</p>
+<p>周末wt这位新晋的大厨做了两天的菜，又是粉蒸肉，又是大盆鸡。看起来他对烹饪也很喜欢，我呢，则是又做了一顿午饭，勉勉强强吧。另外周末两天都去看篮球赛了，其实是希望多动动, 换换脑袋。当然，出去感受一下还是比一直宅着好多了。</p>
+<p>周末打算约曹同学未果，还未给学车画上尾巴。</p>
+<p>周五技术部开了一个半年会。这是第一届，感觉距离上一次技术部开会已经好久了。会上评了一些奖，组里把奉献奖给了我，挺荣幸的。当时我想到的是组里很多更有 ownership 的人，更高效率完成任务的人, 自己还有很大的改进空间。借机也勉励一下自己吧，尽量将自己的工作自动化才是。 &#8220;automate everything&#8221;. (刚写到这里的时候，又跑去处理线上bug了!, 追调度真心伤不起，尤其是在下游已经开始执行的情况。如果上游挂了，可以有几分钟的等待操作确认(比如先暂停相应分支，等待处理后更新状态), 那么OP的事情会更可行)。</p>
+<p>周五的时候我居然衣服穿反出门了，论我的状态。当时一直在烦恼流程 Review 这个不可控(no scale)的事情。想把它做到更自动化，于是围绕着这个在周四晚上跟yc, xz两个人讨论了一番。当然，这只是我的自救，否则我会被这样的事情给拖累。周末刚好看到 强调 <a href="http://weibo.com/1834459124/A59kB9OLz?mod=weibotime">Ship early, fix later.</a> 的微博:</p>
+<blockquote>
+<p>在一个快速成长的创业公司里，我不太可能有时间和精力像 review 我的开源项目的每一个补丁那样仔细检查每一个工程师的每一次代码提交，所以我对线上系统的控制力便只能通过 systemtap 这样的动态追踪工具来实现，在出现问题时快速定位并找到相关责任人，然后推动他们去整改。&quot;Ship early, fix later.&quot;</p>
+</blockquote>
+<p>这是我们希望达到的状态，不过这需要在基础设施足够有底气才行，要不然经不起瞎折腾。</p>
+<p>周三的时候(8月14号)接到一个消息让我觉得时间已经不多了，要积极奋斗才是, 不过从上个周末的表现来看，我仍然没有做到最好，或者说可以改进的空间实在太大了。 而且留下的时间也真的不多了。</p>
+<p>基本就这几件事了。</p>
+<p>本周展望呢?</p>
+<ul>
+	<li>最主要的还是继续在主要任务上冲刺(上线hive 0.11)</li>
+	<li>继续看挑战程序设计竞赛这本书，以及database imp(这本书拖太久了)</li>
+	<li>努力学习，努力准备，不要留有遗憾。</li>
+</ul></div>
+    <div class="meta">
+        <div class="date">
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-08-20T00:26:00+08:00" pubdate data-updated="true">Aug 20<span>th</span>, 2013</time></div>
+        <div class="tags">
+
+</div>
+        
+    </div>
+</article>
+<div class="share">
+	<div class="addthis_toolbox addthis_default_style ">
+	
+	
+	<a class="addthis_button_tweet"></a>
+	
+	
+	<a class="addthis_counter addthis_pill_style"></a>
+	</div>
+	<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4eb4a0c47196e907"></script>
+</div>
+
+<section id="comment">
+    <h1 class="title">Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+</section>
+</div>
+	<footer class="inner">Copyright &copy; 2013 MayCoder</footer>
+	<script src="/javascripts/jquery.fancybox.pack.js"></script>
+<script src="/javascripts/slash.js"></script>
+
+
+<script type="text/javascript">
+      var disqus_shortname = 'code6';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://maycoder.github.com/blog/2013/08/20/weekly-diary-20130818/';
+        var disqus_url = 'http://maycoder.github.com/blog/2013/08/20/weekly-diary-20130818/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+</body>
+</html>

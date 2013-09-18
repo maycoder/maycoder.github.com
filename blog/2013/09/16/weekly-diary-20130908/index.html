@@ -1,0 +1,160 @@
+
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>周记-2013年09月08日 - MayCoder</title>
+    <meta name="author" content="Code6">
+
+    
+    <meta name="description" content="周记-2013年09月08日 9.2 ~ 9.8
+时间回退到9月的第一周了, 虽然现在是9月17号了(如果我补充五一的事情，那回退得才更厉害)。
+sendmail
+似乎这周一搞了一个 sendmail 小模块，起因是希望在hadoop任务监控上添加发报警邮件功能， &hellip;">
+    
+    <meta name="viewport" content="width=device-width; initial-scale=1; maximum-scale=1">
+
+    <link href="/atom.xml" rel="alternate" title="MayCoder" type="application/atom+xml">
+    <link rel="canonical" href="">
+    <link href="/favicon.png" rel="shortcut icon">
+    <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+    <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    
+    
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-29800624-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body>
+	<header class="inner"><h1 class="left"><a href="/">MayCoder</a></h1>
+<nav class="menu left"><ul class="main">
+	<li><a href="/">Blog</a></li>
+	<li><a href="/blog/archives">Archives</a></li>
+</ul>
+</nav>
+<div class="right">
+	<form class="search right" action="http://google.com/search" method="get">
+		<input class="left" type="text" name="q" results="0">
+		<input type="hidden" name="q" value="site:maycoder.github.com">
+	</form>
+	<div class="social right">
+		
+		
+		<a class="google" href="https://plus.google.com/104473212256457667839" title="Google+">Google+</a>
+		
+		
+		<a class="twitter" href="http://twitter.com/wzc1989" title="Twitter">Twitter</a>
+		
+		
+		<a class="github" href="https://github.com/code6" title="GitHub">GitHub</a>
+		
+		
+		<a class="rss" href="/atom.xml" title="RSS">RSS</a>
+		
+	</div>
+</div>
+</header>
+	
+<div id="banner" class="inner">
+	<div class="container">
+		<ul class="feed"></ul>
+	</div>
+	<small><a href="http://twitter.com/wzc1989">wzc1989</a> @ <a href="http://twitter.com">Twitter</a></small>
+	<div class="loading">Loading...</div>
+</div>
+<script src="/javascripts/twitter.js"></script>
+<script type="text/javascript">
+	(function($){
+		$('#banner').getTwitterFeed('wzc1989', 4, false);
+	})(jQuery);
+</script>
+
+	<div id="content" class="inner"><article class="post">
+    <h1 class="title">周记-2013年09月08日</h1>
+    <div class="entry"><p>9.2 ~ 9.8</p>
+<p>时间回退到9月的第一周了, 虽然现在是9月17号了(如果我补充五一的事情，那回退得才更厉害)。</p>
+<p><strong>sendmail</strong><br />
+似乎这周一搞了一个 sendmail 小模块，起因是希望在hadoop任务监控上添加发报警邮件功能，然后看到目前的python包当中没有邮件模块，于是快快搞了一个。自己用着还算爽，不过感觉仅仅是一个屁大的事情罢了。</p>
+<p><strong>mysql slave restart</strong><br />
+由于上周提到SA已经不case 这种经常会挂掉的从库了，于是我快猛操地又搞了一个小脚本用来做从库检测重启。一上线就服务于一两次夜间的从库down机问题(发现我做的都是火烧眉毛的事情, 甚是被动)。</p>
+<p><strong>sqoop hive to mysql</strong><br />
+在本周我终止了一个尝试: sqoop 同步数据回 mysql, 因为这个实在是太费劲了，脆弱的dw mysql 连几十GB的数据量都承受不起。后续还得继续找较大结果数据的报表展示方案。</p>
+<p><strong>天云趋势</strong><br />
+<a href="http://www.huodongxing.com/go/hadoopsalon">活动行上面的一个活动</a> 看着还不错，于是周五中午我跟cc和cjz就跑过去听了一会儿，Hortonworks的兄弟Jeff Markham 在上面介绍 hadoop 2.0 有啥好处之类的东西，后面几个感觉听着没意思就先走了。出来的时候还问了 Jeff 关于&quot;如何平稳地升级hadoop生态系统各组件&quot;这个问题，不过他没回复，而是很商业性质地希望交换名片，然后说可以给他发email，他会回复的。后面我发了一个邮件索取分享的ppt却一直没有收到回信。。。</p>
+<p><strong>hackathon</strong><br />
+另外本周一个重点就是 美团hackathon 了, 我已经 <a href="http://code6.github.io/blog/2013/09/07/one-day-in-the-data-warehouse/">记录在另外一篇文章</a> 里面了，这里就不细述了。</p></div>
+    <div class="meta">
+        <div class="date">
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-09-16T22:42:00+08:00" pubdate data-updated="true">Sep 16<span>th</span>, 2013</time></div>
+        <div class="tags">
+
+</div>
+        
+    </div>
+</article>
+<div class="share">
+	<div class="addthis_toolbox addthis_default_style ">
+	
+	
+	<a class="addthis_button_tweet"></a>
+	
+	
+	<a class="addthis_counter addthis_pill_style"></a>
+	</div>
+	<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4eb4a0c47196e907"></script>
+</div>
+
+<section id="comment">
+    <h1 class="title">Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+</section>
+</div>
+	<footer class="inner">Copyright &copy; 2013 MayCoder</footer>
+	<script src="/javascripts/jquery.fancybox.pack.js"></script>
+<script src="/javascripts/slash.js"></script>
+
+
+<script type="text/javascript">
+      var disqus_shortname = 'code6';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://maycoder.github.com/blog/2013/09/16/weekly-diary-20130908/';
+        var disqus_url = 'http://maycoder.github.com/blog/2013/09/16/weekly-diary-20130908/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+</body>
+</html>
